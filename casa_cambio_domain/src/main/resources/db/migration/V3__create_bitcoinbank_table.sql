@@ -1,0 +1,8 @@
+CREATE TABLE bitcoinbank
+(
+    ID                 INT            NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    BIT_COIN_PURCHASED DECIMAL(11, 2) NOT NULL,
+    QUOTE              DECIMAL(11, 2) NOT NULL,
+    CUSTOMER_ID        VARCHAR(11)    NOT NULL,
+    DATE_TRANSACTION   DATE           NOT NULL
+);
