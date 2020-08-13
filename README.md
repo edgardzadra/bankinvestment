@@ -18,3 +18,4 @@ MS 8080 -> Cadastro de usuário
 MS 8083 ->Compra de BitCoin
 MS 8084 -> Informações consolidadas
 
+para acessar o Eureka acessar a porta 8716
